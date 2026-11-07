@@ -1,0 +1,9 @@
+streamlit
+groq
+chromadb
+fastmcp
+python-docx
+openpyxl
+requests
+pypdf
+python-dotenv
